@@ -18,6 +18,6 @@ def get_data():
 
 def main():
     demo_data = get_data()
+    print(demo_data)
 
-if __name__ '__main__':
-    main()
+
